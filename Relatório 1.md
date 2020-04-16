@@ -3,8 +3,9 @@
 Parte 1
 
 Ampop LN324N
-![parte](https://i.imgur.com/0z7gBvm.png)
-
+![parte](https://cdn.discordapp.com/attachments/700405960866529319/700443910727663696/seguidor.png)
+Ampop TL082
+![parte](https://i.imgur.com/aknu6Vj.png)
 
 Parte 2
 Ampop LN324N
