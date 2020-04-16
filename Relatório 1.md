@@ -26,8 +26,6 @@
 
 *Parte 4*
 
-De acordo com o datasheet fornecido pela *Texas Instruments*, o ampop TL082 irá dimensionar um sinal de +/- 0.5V ate +/-1.8V, e isso causa a dissimilaridade comparada ao Ampop LM324N
-
 **Ampop LM324N**
 
 A tensão de saída no ampop LM324N para ambos os amplificadores foi de 128.81mV
