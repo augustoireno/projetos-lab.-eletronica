@@ -3,4 +3,9 @@
 Parte 1
 
 Ampop LN324N
-![parte1ln](https://imgur.com/a/Qz8lbg6)
+![parte](https://i.imgur.com/0z7gBvm.png)
+
+
+Parte 2
+Ampop LN324N
+![parte2](https://cdn.discordapp.com/attachments/700405960866529319/700437126965100595/2020-04-16_5.png)
