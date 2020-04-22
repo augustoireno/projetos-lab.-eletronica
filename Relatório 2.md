@@ -1,6 +1,6 @@
-Parte 1
+**Parte 1**
 
-Parte 01_a
+*Parte 01_a*
 
 Para o circuito sem capacitor a corrente no Diodo foi de 60.32mA
 ![Circuito sem capacitor](https://i.imgur.com/6UTuYzv.png)
@@ -13,6 +13,8 @@ Para o circuito com capacitor de 2200uF a corrente no Diodo foi de 2A
 
 Os valores calculados foram esses:
 ![Tabela](https://i.imgur.com/Ne6RiTK.png)
+
+*Parte 01_b*
 
 
 
