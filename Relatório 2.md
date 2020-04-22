@@ -19,12 +19,17 @@ Os valores calculados foram esses:
 O Resistor shunt é um resistor com um valor de resistência muito baixo, porque ele fica ligado em série com a carga, e usando a queda de tensão sobre esse resistor pode ser determinada a corrente que circula nele. Para determinar o valor do resistor em um circuito pode ser usado a formula de lei de Ohmn onde V=RxI ou R=V/I.
 
 
+**Parte 2**
 
+Para o circuito sem capacitor a corrente no diodo é 57,3mA
+![sem capacitor](https://i.imgur.com/KPlghyT.png)
 
+Para o circuito com capacitor de 220uF a corrente nos diodos é 545,12mA, mas para os diodos D2 e D3 a corrente maxima é 1,387A
+![capacitor 220uF](https://i.imgur.com/sPBUP83.png)
 
+Para o circuito com capacitor de 1000uf a corrente nos diodos D2 e D3 é 735mA, e nos diodos D1 e D4 é 808mA com corrente maxima de 6,155A
+![capacitor 1000uF](https://i.imgur.com/F2457sQ.png)
 
-
-
-Parte 2
+![tabela](https://i.imgur.com/gaHg3M2.png)
 
 Parte 3
