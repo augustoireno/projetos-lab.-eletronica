@@ -16,6 +16,9 @@ Os valores calculados foram esses:
 
 *Parte 01_b*
 
+O Resistor shunt é um resistor com um valor de resistência muito baixo, porque ele fica ligado em série com a carga, e usando a queda de tensão sobre esse resistor pode ser determinada a corrente que circula nele. Para determinar o valor do resistor em um circuito pode ser usado a formula de lei de Ohmn onde V=RxI ou R=V/I.
+
+
 
 
 
